@@ -10,6 +10,6 @@
 - Git version control for collaborative development.
 
 🌐 Connect with me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- LinkedIn: https://www.linkedin.com/in/abdulrafaykz
 
 📬 Let's collaborate! Feel free to reach out for Flutter-related discussions, collaborations, or just to say hi!
