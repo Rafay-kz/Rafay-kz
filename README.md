@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🚀 My expertise:
-- Flutter enthusiast with 2+ years of experience.
+- Flutter enthusiast with 4 years of experience.
 - Proficient in Dart, UI/UX design, and state management.
 - Skilled in crafting beautiful, performant cross-platform mobile apps.
 
